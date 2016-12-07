@@ -1,3 +1,9 @@
+---
+title: Bretagne Lab Tour 2015
+description: Ateliers de fabrication numérique et prototypage lors d'un Tour de Bretagne des lieux d'innovation ouverte et des communautés collaboratives
+image_url: https://framapic.org/zrefdcJxAkEQ/2sGOPnmf6GJ8.jpg
+---
+
 # [#B[r](/ep/search/?q=%23BTour&via=CJCut6qvqG0)e[t](/ep/search/?q=%23BreTour&via=CJCut6qvqG0)a[g](/ep/search/?q=%23BretaTour&via=CJCut6qvqG0)n[e](/ep/search/?q=%23BretagnTour&via=CJCut6qvqG0)L[a](/ep/search/?q=%23BretagneLTour&via=CJCut6qvqG0)bTour] Tour de Bretagne des lieux d'innovation ouverte et des communautés collaboratives
 
 ![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_CJCut6qvqG0_p.62368_1445087067368_BLT_carte_2.png)
