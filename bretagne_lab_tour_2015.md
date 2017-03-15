@@ -73,46 +73,46 @@ _"Je  suis très heureuse dêtre marraine du Tour "_[Sur les  routes de la conf
 
 ## 3- Étapes
 
-**[3.1 Saint Brieuc [6 Oct]](/BretagneLabTour-1re-tape-Saint-Brieuc-le-6-octobre-UmcMw6T3pXQ)**
+**[3.1 Saint Brieuc [6 Oct 2015]](/BretagneLabTour-1re-tape-Saint-Brieuc-le-6-octobre-UmcMw6T3pXQ)**
 
 *   Thème : Communauté créatives
 *   Référents : Ludovic Arnold (La Matrice) - [Alxeandre Solacolu](https://www.facebook.com/alexandre.solacolu) (Photo Reporter)
 *   Lieux : La Matrice - Saint-Brieuc Factory
 *   [Document de l'étape](/BretagneLabTour-1re-tape-Saint-Brieuc-6-octobre-UmcMw6T3pXQ) 
 
-![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_CJCut6qvqG0_p.266912_1444564304444_ST%20brieuc%20BLt.jpg)
+![](https://framapic.org/ffJ06waeWI6x/VeWXq98Eaqn3)
 
 *   Atelier : [La Brique Internet](https://hackpad.com/BretagneLabTour-La-brique-Internet-kFn3p6ejJwS) (Faire soi même son accès internet)
 
-![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_CJCut6qvqG0_p.266912_1444565240538_CQpO4B0UwAAnDo-_002.jpg)
+![](https://framapic.org/66NpR8KtkdIM/SIXiWAA0vTF2)
 
-**[3.2 Brest [7-8 Oct]](/BretagneLabTour-2me-tape-Brest-7-et-8-octobre-3oHbvEcPblM)**
+**[3.2 Brest [7-8 Oct 2015]](/BretagneLabTour-2me-tape-Brest-7-et-8-octobre-3oHbvEcPblM)**
 
 *   Thème : Innovation civique
 *   Référents : [Jessica Pin](https://www.facebook.com/jessica.pin.756?fref=ts) (La Cantine Numérique), [Alice Pennors](https://www.facebook.com/loopi.pen?fref=ts) (Les Chats Cosmiques)
 *   Lieux : La Cantine numérique de Brest, TyFab
 *   [Document de l'étape](/BretagneLabTour-2me-tape-Brest-7-et-8-octobre-3oHbvEcPblM) 
 
-![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_CJCut6qvqG0_p.266912_1444564345106_blt%20brest5.jpg)
+![](https://framapic.org/f7S9ZIb4cmK0/RjlRkYMu76ag)
 
 *   Atelier : [Remora](https://hackpad.com/Remora-en-cours-de-documentation-xjDeDI6LOef) (réseau de capteurs citoyens de données environnementales)
 
-![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_CJCut6qvqG0_p.266912_1444565276346_BLT%20cantine2.jpg)
+![](https://framapic.org/cekG3Fjsk8LS/M8uhO0501G5r)
 
-**[3.3 Concarneau [9 oct]](/BretagneLabTour-3me-tape-Concarneau-Explore-9-octobre-qfpS66vvoQx)**
+**[3.3 Concarneau [9 oct 2015]](/BretagneLabTour-3me-tape-Concarneau-Explore-9-octobre-qfpS66vvoQx)**
 
 *   Thème : Low Tech & ROV Open source
 *   Réfèrent : [Emmanuel Poisson Quinton](https://www.facebook.com/manu.peku?fref=ts) (Explore)
 *   Lieu : [Explore Jourdain ](https://www.explore-jourdain.com)/ [Kairos ](https://www.kairos-jourdain.com)
 *   [Document de l'étape](/BretagneLabTour-3me-tape-Concarneau-Explore-9-octobre-qfpS66vvoQx) 
 
-![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_CJCut6qvqG0_p.266912_1444564371971_me%20blt%20concarneau.jpg)
+![](https://framapic.org/CUfPthKW4gmy/voo8kfUexTsp)
 
 *   Atelier(s) : [Générat](https://hackpad.com/BretagneLabTour-Gnratrice-Low-Tech-DhC5UMCq2jy)[r](https://hackpad.com/BretagneLabTour-Gnratrice-Low-Tech-DhC5UMCq2jy)[ice "Low Tech"](https://hackpad.com/BretagneLabTour-Gnratrice-Low-Tech-DhC5UMCq2jy) & [ROV polaire open source](http://www.makake.co/fr/u/Explore/rov-polaire-opensource)
 
-![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_CJCut6qvqG0_p.266912_1444565536838_collage%20blt%20explore%206.jpg)
+![](https://framapic.org/yF33XXsrO44X/ll8oczsUOzYu)
 
-**[3.4 Pontivy [13 oct]](/BretagneLabTour-4eme-tape-Pontivy-13-octobre-F1uAh27LZRy)**
+**[3.4 Pontivy [13 oct 2015]](/BretagneLabTour-4eme-tape-Pontivy-13-octobre-F1uAh27LZRy)**
 
 *   Thème : l'éducation (design & FabLab)
 *   Référent : Erwan Quentel (espace Kénéré)
