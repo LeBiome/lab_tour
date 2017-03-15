@@ -119,11 +119,11 @@ _"Je  suis très heureuse dêtre marraine du Tour "_[Sur les  routes de la conf
 *   Lieu : Espace Kénéré / Lab Bro Pondi
 *   [Document de l'étape](/BretagneLabTour-4eme-tape-Pontivy-13-octobre-F1uAh27LZRy) 
 
-![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_CJCut6qvqG0_p.266912_1444727371590_collage%20blt%20pondi.jpg)
+![](https://framapic.org/7K75N2okOS02/AYn5Re2wZfGp)
 
 *   Atelier : [l'habitat au prisme du biomimétisme avec les élèves du Lycée de Pontivy ](https://ADD TO COLLECTION)
 
-![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_CJCut6qvqG0_p.266912_1445076706520_blt%20pondi%20biomimicry.jpg)
+![](https://framapic.org/KSAQSS1hZcof/cj3xnjKWkULV)
 
 **[3.5 Nantes [14-15 oct]](/BretagneLabTour-5me-tape-Nantes-14-15-octobre-tPQn73EJTY4)**
 
@@ -132,24 +132,24 @@ _"Je  suis très heureuse dêtre marraine du Tour "_[Sur les  routes de la conf
 *   Lieu : Plateforme C (assocation PING)
 *   [Document de l'étape](/BretagneLabTour-5me-tape-Nantes-14-15-octobre-tPQn73EJTY4) 
 
-![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_CJCut6qvqG0_p.266912_1445077154928_PANO_20151015_104617.jpg)
+![](https://framapic.org/gJZ8689Qv7RJ/HNdlEgPvPwi0)
 
 *   Atelier : [P](https://hackpad.com/BretagneLabTour-Atelier-Proprit-Intellectuelle-Groupe-C-Libre-Y4k6UWWEaKl)[ropriété intellectuelle et licence libre](https://hackpad.com/BretagneLabTour-Atelier-Proprit-Intellectuelle-Groupe-C-Libre-Y4k6UWWEaKl)
 
-![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_CJCut6qvqG0_p.266912_1445077309375_nanates%20blt.jpg)
+![](https://framapic.org/tuWfbU4Wol53/YlhP3kBhCUgV)
 
-**[3.6 Rennes [16-17 oct]](/BretagneLabTour-6me-tape-Rennes-16-17-octobre-Nl6jmcbdt2i)**
+**[3.6 Rennes [16-17 oct 2015]](/BretagneLabTour-6me-tape-Rennes-16-17-octobre-Nl6jmcbdt2i)**
 
 *   Thème : villes intelligentes, agriculture urbaine
 *   Référent : [Thomas Meghe](/ep/profile/q6gSMKkD878) (LabFab de Rennes)
 *   Lieu : le LabFab (à la Maison des associations)
 *   [Document de l'étape](/BretagneLabTour-6me-tape-Rennes-16-17-octobre-Nl6jmcbdt2i) 
 
-![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_CJCut6qvqG0_p.266912_1445081332947_collage_20151017133710116_20151017133733430.jpg)
+![](https://framapic.org/VuXvKIZ6Sxr2/IiLo2Yi2kMTQ)
 
 *   Atelier : [monitoring de plante à faire soi même](https://hackpad.com/BretagneLabTour-Atelier-Particle.io-z8dtT2HL8ik)
 
-![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_CJCut6qvqG0_p.266912_1445080629555_particule%20blt.jpg)
+![](https://framapic.org/vmTlXWmoBPqi/erLLlD8IXVOI)
 
 ## 4- Écosystème
 <undefined><li>**[Réseau BZHLab](http://bzhlab.wikidot.com/reseau)**</li></undefined>
@@ -362,7 +362,7 @@ Explore a permis de tester la dynamique du tour le 7/08 dans le cadre d'une [ré
 
 - Mise en partage des ressources créées ce jour
 
-## Licence dutilisation
+## Licence d'utilisation
 
 ![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_CJCut6qvqG0_p.266912_1444998003182_cc-by-sa.png)
 
