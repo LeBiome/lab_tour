@@ -4,7 +4,7 @@ description: Ateliers de fabrication numérique et prototypage lors d'un Tour de
 image_url: https://framapic.org/yQ9fomTPULzB/nyxGWwf8GIjk.jpg
 ---
 
-# [#B[r](/ep/search/?q=%23BTour&via=CJCut6qvqG0)e[t](/ep/search/?q=%23BreTour&via=CJCut6qvqG0)a[g](/ep/search/?q=%23BretaTour&via=CJCut6qvqG0)n[e](/ep/search/?q=%23BretagnTour&via=CJCut6qvqG0)L[a](/ep/search/?q=%23BretagneLTour&via=CJCut6qvqG0)bTour] Tour de Bretagne des lieux d'innovation ouverte et des communautés collaboratives
+# [#BretagneLabTour] Tour de Bretagne des lieux d'innovation ouverte et des communautés collaboratives
 
 ![](https://framapic.org/yQ9fomTPULzB/nyxGWwf8GIjk.jpg)
 
@@ -14,14 +14,13 @@ image_url: https://framapic.org/yQ9fomTPULzB/nyxGWwf8GIjk.jpg
 *   Aller à la rencontre de celles et ceux qui préfigurent cette région comme un territoire intelligent, socialement innovant, réconcilié avec la biosphère. 
 *   Amorcer & prototyper collaborativement un projet de territoire ; amorcer un carnet collaboratif de ressources / solutions / possibles / interactions sur la région.
 
-![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_CJCut6qvqG0_p.266912_1444566553635_collage%20Blt%20rencontres.jpg)
+![](https://framapic.org/qAVbaaPQnTTt/sfIgHiJSzeEw)
 
 <u>Pour les plus curieux, voici </u>: 
 
 *   [L'article de positionnement](https://medium.com/@XavierCoadic/sur-les-routes-de-la-confiance-ebb40a3d48f1)
 *   [Le carnet des rencontres](https://hackpad.com/BretagneLabTour-Carnet-de-rencontres-9zjNpnzhajH)
 *   [Bilan des ateliers réalisés](/BretagneLabTour-Carnet-de-bord-des-ateliers-VkAXV2v34ed)
-
 *   [Le diaporama de présentation](https://docs.google.com/presentation/d/1fsXNnI8rAL4wEhlGJk1tBvE4GZukj_PJ9wlLsiC4lEQ/edit#slide=id.gb53b82f42_0_10)
 *   [Le diapo alpha de présentation](http://bit.ly/1JRNefm)
 *   [Une infographie de synthèse](https://magic.piktochart.com/output/7989105-bretagne-lab-tour)
