@@ -37,9 +37,9 @@ image_url: https://framapic.org/yQ9fomTPULzB/nyxGWwf8GIjk.jpg
 
 **<u>1.2 Marraine</u>**
 
-Avec le soutien officiel d'**[Isabelle Delannoy](http://www.economie-symbiotique.fr/isabelle-delannoy/)**, ingénieur(e) agronome, auteur(e) et conférencière, spécialisée dans l'économie symbiotique (Do Green, lAtelier symbiotique).
+Avec le soutien officiel d'**[Isabelle Delannoy](http://www.economie-symbiotique.fr/isabelle-delannoy/)**, ingénieur(e) agronome, auteur(e) et conférencière, spécialisée dans l'économie symbiotique (Do Green, l'Atelier symbiotique).
 
-_"Je  suis très heureuse dêtre marraine du Tour "_[Sur les  routes de la confiance](https://medium.com/@XavierCoadic/sur-les-routes-de-la-confiance-ebb40a3d48f1)_", à la découverte de la Bretagne collaborative et innovante.  Ce tour correspond à ma conviction que la collaboration fait  naitre lintelligence collective qui nous permet de créer ensemble une  économie écologique, sociale, solidaire, une économie de progrès enviable pour nos enfants. Il permettra de construire une nouvelle  brique contribuant à nous relier entre acteurs locaux qui mettons déjà  en place cette nouvelle façon de faire économie et de faire société. "_
+_"Je  suis très heureuse d'être marraine du Tour "_[Sur les  routes de la confiance](https://medium.com/@XavierCoadic/sur-les-routes-de-la-confiance-ebb40a3d48f1)_", à la découverte de la Bretagne collaborative et innovante.  Ce tour correspond à ma conviction que la collaboration fait  naitre l'intelligence collective qui nous permet de créer ensemble une  économie écologique, sociale, solidaire, une économie de progrès enviable pour nos enfants. Il permettra de construire une nouvelle  brique contribuant à nous relier entre acteurs locaux qui mettons déjà  en place cette nouvelle façon de faire économie et de faire société. "_
 
 ![](https://hackpad-attachments.s3.amazonaws.com/hackpad.com_CJCut6qvqG0_p.266912_1443006856445_Isabelle2.jpg)
 
@@ -120,6 +120,7 @@ _"Je  suis très heureuse dêtre marraine du Tour "_[Sur les  routes de la conf
 *   [Document de l'étape](/BretagneLabTour-4eme-tape-Pontivy-13-octobre-F1uAh27LZRy) 
 
 ![](https://framapic.org/7K75N2okOS02/AYn5Re2wZfGp)
+
 
 *   Atelier : [l'habitat au prisme du biomimétisme avec les élèves du Lycée de Pontivy ](https://ADD TO COLLECTION)
 
